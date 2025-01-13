@@ -76,6 +76,7 @@
           <InArgument x:TypeArguments="x:String">Queretaro</InArgument>
           <InArgument x:TypeArguments="x:String">CDMX</InArgument>
           <InArgument x:TypeArguments="x:String">Oaxaca</InArgument>
+          <InArgument x:TypeArguments="x:String">San Luis Potosì</InArgument>
         </scg:List>
       </uasc:BuildCollection.NextItems>
     </uasc:BuildCollection>
